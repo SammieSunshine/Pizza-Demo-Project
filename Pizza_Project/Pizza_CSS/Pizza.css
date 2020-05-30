@@ -1,0 +1,87 @@
+body {
+    background-color: #a83232;
+}
+
+h1 {
+    font-family: 'Londrina Solid';
+    font-size: 40px;
+    font: large;
+    color: #f7d4a6;
+    text-shadow: 4px 3px #124910;
+}
+
+h3 {
+    text-align: center;
+    margin: 10px auto;
+    font: 10px  message-box 'Luckiest Guy';
+    color: #faebd7;
+    background-color: #176914;
+    border: 4px ridge #dfb072 ;
+    text-shadow: 2px 3px #a83232;
+    
+}
+
+
+div {
+    font-family:'Luckiest Guy';
+    font-size: 20px;
+    font: bold;
+    color: #faebd7;
+    text-shadow: 2px 3px #044607;
+}
+
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0;
+    margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder {
+    text-align: center;
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+    font-family: 'Londrina Solid';
+    color:#faebd7;
+    text-shadow: 2px 3px #044607;
+    background-color: #176914;
+    border: 3px ridge #dfb072;
+}
