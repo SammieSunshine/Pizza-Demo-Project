@@ -13,7 +13,7 @@ h1 {
 h3 {
     text-align: center;
     margin: 10px auto;
-    font: 10px  message-box 'Luckiest Guy';
+    font: 10px  message-box 'Londrina Solid';
     color: #faebd7;
     background-color: #176914;
     border: 4px ridge #dfb072 ;
@@ -37,11 +37,13 @@ div {
 }
 
 #frmMenu {
+
     width: 400px;
     height: 200px;
 }
 
 #totalPrice {
+    padding-top: 15px;
     width: 200px;
     height: 190px;
     margin: 0 auto;
@@ -51,12 +53,21 @@ div {
 .left {
     width: 200px;
     height: 200px;
+    margin: 0 -200px auto;
     float: left;
+}
+
+.center {
+    width: 200px;
+    height: 200px;
+    margin: 0 460px auto;
+    float: center;
 }
 
 .right {
     width: 200px;
     height: 200px;
+    margin: -200px 100px auto;
     float: right;
 }
 
@@ -68,6 +79,7 @@ div {
 }
 
 #cart {
+    padding-top: 120px;
     top: 0;
     margin: 0px auto;
     width: 400px;
@@ -81,7 +93,7 @@ div {
     height: 40px;
     font-family: 'Londrina Solid';
     color:#faebd7;
-    text-shadow: 2px 3px #044607;
+    text-shadow: 2px 3px #a83232;
     background-color: #176914;
     border: 3px ridge #dfb072;
 }
